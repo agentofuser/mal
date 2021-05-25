@@ -1,0 +1,14 @@
+[package]
+name = "rustmob"
+version = "0.1.0"
+authors = ["Arthur Azevedo de Amorim <arthur.aa@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "step0"
+path = "src/step0_repl.rs"
+
+[dependencies]
+
