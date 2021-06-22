@@ -11,4 +11,4 @@ name = "step0"
 path = "src/step0_repl.rs"
 
 [dependencies]
-
+nom = "6.2.0"
